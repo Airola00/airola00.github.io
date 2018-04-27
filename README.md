@@ -20,4 +20,4 @@
 <a href=""><a/>
   
 <h3>Practica 7</h3>
-<a href="https://airola00.github.io/Practica%207/Practica7Bootstrap.html"><a/> 
+<a href="https://airola00.github.io/Practica%207/Practica7Bootstrap.html">Carousel<a/> 
