@@ -5,7 +5,7 @@
 <a href="https://airola00.github.io/Practica%20Bootstrap%201/Practica%20Bootstrap.html">Grids<a/>
 
 <h3>Practica 2</h3>
-<a href=""><a/>
+<a href="https://airola00.github.io/Practica%20Bootstrap%201/TablasBoostrap.html">Tablas<a/>
 
 <h3>Practica 3</h3>
 <a href=""><a/>
