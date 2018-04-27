@@ -17,7 +17,7 @@
 <a href="https://airola00.github.io/Practica5Bootstrap/Practica5Bootstrap.html">Menu Responsivo(con tema)<a/>
  
 <h3>Practica 6</h3>
-<a href=""><a/>
+<a href="https://airola00.github.io/Practica%206/Practica6Bootstrap.html">Iconos<a/>
   
 <h3>Practica 7</h3>
 <a href="https://airola00.github.io/Practica%207/Practica7Bootstrap.html">Carousel<a/> 
